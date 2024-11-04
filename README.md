@@ -7,10 +7,24 @@
 
 La IA se refiere a la capacidad de una máquina para simular la inteligencia humana, procesando información y aprendiendo de ella.
 
-# Tipos de IA
+# Tipos de IA:
+
+1. **IA Débil (Narrow AI)**:
+   - Definición: Sistemas diseñados para realizar tareas específicas. No poseen consciencia ni entendimiento general.
+   - Ejemplos: Asistentes virtuales como Siri y Alexa, sistemas de recomendación en plataformas de streaming.
+   - Aplicaciones: Procesamiento del lenguaje natural, reconocimiento de imágenes, chatbots.
+
+2. **IA General (AGI)**:
+   - Definición: Sistemas que poseen la capacidad de entender, aprender y aplicar inteligencia en diversas tareas, similar a un ser humano.
+   - Ejemplos: Actualmente, no existen sistemas de AGI plenamente desarrollados.
+   - Aplicaciones: Teóricas, en desarrollo.
+
+3. **Superinteligencia**:
+   - Definición: Una inteligencia que supera la capacidad humana en todos los aspectos, incluyendo creatividad y resolución de problemas.
+   - Ejemplos: Conceptos aún hipotéticos; su desarrollo plantea debates éticos y de seguridad.
+   - Aplicaciones: En la ficción y discusiones teóricas sobre el futuro de la IA.
 
 ![BBVA-Openmind-Banafa-3-tipos-de-IA](https://github.com/user-attachments/assets/181598ec-2b4e-4ecb-b7ab-0a67490a63de)
-
 
 - IA Debil: Diseñada para realizar tareas específicas, como reconocimiento de voz o juegos.
 - IA General: Capaz de realizar cualquier tarea intelectual, similar a la inteligencia humana.
